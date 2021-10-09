@@ -1,1 +1,3 @@
-# project-nucleus
+# Prøject Nucleus
+
+My personal Emacs config
